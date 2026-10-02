@@ -1,0 +1,184 @@
+[
+  {
+    "nome": "Vodka Russa",
+    "teor_alcoolico": 47.9,
+    "acidez": 3.3,
+    "ano_criacao": 1646,
+    "preco": 289.9,
+    "trunfo": "sim",
+    "imagem": "vodka-russa.jpg"
+  },
+  {
+    "nome": "Whisky Escocês",
+    "teor_alcoolico": 54.7,
+    "acidez": 3.2,
+    "ano_criacao": 1797,
+    "preco": 82.94,
+    "trunfo": "não",
+    "imagem": "whisky-escoces.jpg"
+  },
+  {
+    "nome": "Cachaça Artesanal",
+    "teor_alcoolico": 47.0,
+    "acidez": 4.3,
+    "ano_criacao": 1849,
+    "preco": 308.84,
+    "trunfo": "não",
+    "imagem": "cachaca-artesanal.jpg"
+  },
+  {
+    "nome": "Tequila Mexicana",
+    "teor_alcoolico": 54.9,
+    "acidez": 6.6,
+    "ano_criacao": 1651,
+    "preco": 386.74,
+    "trunfo": "não",
+    "imagem": "tequila-mexicana.jpg"
+  },
+  {
+    "nome": "Rum Cubano",
+    "teor_alcoolico": 38.1,
+    "acidez": 3.5,
+    "ano_criacao": 1647,
+    "preco": 376.72,
+    "trunfo": "não",
+    "imagem": "rum-cubano.jpg"
+  },
+  {
+    "nome": "Gin Inglês",
+    "teor_alcoolico": 18.0,
+    "acidez": 4.9,
+    "ano_criacao": 1722,
+    "preco": 13.17,
+    "trunfo": "não",
+    "imagem": "gin-ingles.jpg"
+  },
+  {
+    "nome": "Absinto Europeu",
+    "teor_alcoolico": 73.0,
+    "acidez": 3.8,
+    "ano_criacao": 1857,
+    "preco": 239.73,
+    "trunfo": "não",
+    "imagem": "absinto-europeu.jpg"
+  },
+  {
+    "nome": "Saque Japonês",
+    "teor_alcoolico": 14.3,
+    "acidez": 5.5,
+    "ano_criacao": 1658,
+    "preco": 391.94,
+    "trunfo": "não",
+    "imagem": "saque-japones.jpg"
+  },
+  {
+    "nome": "Licor de Laranja",
+    "teor_alcoolico": 21.2,
+    "acidez": 4.1,
+    "ano_criacao": 1822,
+    "preco": 387.6,
+    "trunfo": "não",
+    "imagem": "licor-de-laranja.jpg"
+  },
+  {
+    "nome": "Cerveja Pilsen",
+    "teor_alcoolico": 4.8,
+    "acidez": 6.6,
+    "ano_criacao": 2017,
+    "preco": 62.35,
+    "trunfo": "não",
+    "imagem": "cerveja-pilsen.jpg"
+  },
+  {
+    "nome": "Vinho Tinto Seco",
+    "teor_alcoolico": 11.7,
+    "acidez": 5.9,
+    "ano_criacao": 1652,
+    "preco": 126.38,
+    "trunfo": "não",
+    "imagem": "vinho-seco.jpg"
+  },
+  {
+    "nome": "Vinho Branco Doce",
+    "teor_alcoolico": 9.9,
+    "acidez": 7.1,
+    "ano_criacao": 1622,
+    "preco": 378.79,
+    "trunfo": "não",
+    "imagem": "vinho-branco.jpg"
+  },
+  {
+    "nome": "Champagne",
+    "teor_alcoolico": 9.1,
+    "acidez": 5.6,
+    "ano_criacao": 1880,
+    "preco": 334.07,
+    "trunfo": "não",
+    "imagem": "champagne.jpg"
+  },
+  {
+    "nome": "Sidra",
+    "teor_alcoolico": 4.0,
+    "acidez": 6.0,
+    "ano_criacao": 1646,
+    "preco": 319.09,
+    "trunfo": "não",
+    "imagem": "sidra.jpg"
+  },
+  {
+    "nome": "Mead (Hidromel)",
+    "teor_alcoolico": 5.8,
+    "acidez": 6.2,
+    "ano_criacao": 1807,
+    "preco": 97.13,
+    "trunfo": "não",
+    "imagem": "hidromel.jpg"
+  },
+  {
+    "nome": "Bourbon Americano",
+    "teor_alcoolico": 41.6,
+    "acidez": 6.6,
+    "ano_criacao": 1742,
+    "preco": 44.17,
+    "trunfo": "não",
+    "imagem": "bourbon-americano.jpg"
+  },
+  {
+    "nome": "Grappa Italiana",
+    "teor_alcoolico": 50.1,
+    "acidez": 3.7,
+    "ano_criacao": 1924,
+    "preco": 407.9,
+    "trunfo": "não",
+    "imagem": "grappa-italiana.jpg"
+  },
+  {
+    "nome": "Conhaque Francês",
+    "teor_alcoolico": 55.2,
+    "acidez": 3.3,
+    "ano_criacao": 1969,
+    "preco": 343.2,
+    "trunfo": "não",
+    "imagem": "conhaque-frances.jpg"
+  },
+  {
+    "nome": "Baijiu Chinês",
+    "teor_alcoolico": 69.3,
+    "acidez": 6.2,
+    "ano_criacao": 1729,
+    "preco": 141.88,
+    "trunfo": "não",
+    "imagem": "baijiu-chines.jpg"
+  },
+  {
+    "nome": "Soju Coreano",
+    "teor_alcoolico": 22.9,
+    "acidez": 6.1,
+    "ano_criacao": 1772,
+    "preco": 108.75,
+    "trunfo": "não",
+    "imagem": "soju-coreano.jpg"
+  }
+]
+  
+  

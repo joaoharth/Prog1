@@ -1,0 +1,98 @@
+
+========================
+Data: 2025-06-25 19:57:06.380684
+Atributo escolhido: ano_criacao
+Sua carta: Stout Irlandesa (1703)
+Carta do computador: Rum Cubano (1647)
+Resultado: Você venceu
+
+========================
+Data: 2025-06-25 19:57:27.819269
+Atributo escolhido: ano_criacao
+Sua carta: Gin Inglês (1722)
+Carta do computador: Tripel Belga (1805)
+Resultado: Computador venceu
+
+========================
+Data: 2025-06-25 19:57:38.338156
+Atributo escolhido: teor_alcoolico
+Sua carta: Vodka Russa (47.9)
+Carta do computador: Jägermeister (15.2)
+Resultado: Você venceu (SUPER TRUNFO!)
+
+========================
+Data: 2025-06-25 19:57:49.763594
+Atributo escolhido: preco
+Sua carta: Porto (346.42)
+Carta do computador: Stout Irlandesa (337.09)
+Resultado: Você venceu
+
+========================
+Data: 2025-06-25 20:01:56.300567
+Atributo escolhido: destilacao
+Sua carta: Tripel Belga (4)
+Carta do computador: Cachaça Artesanal (4)
+Resultado: Empate
+
+========================
+Data: 2025-06-25 21:43:58.724566
+Atributo escolhido: ano_criacao
+Sua carta: Gin Inglês (1722)
+Carta do computador: Grappa Italiana (1924)
+Resultado: Computador venceu
+
+========================
+Data: 2025-06-25 21:46:47.622712
+Atributo escolhido: ano_criacao
+Sua carta: Champagne (1880)
+Carta do computador: Gin Inglês (1722)
+Resultado: Você venceu
+
+========================
+Data: 2025-06-25 21:47:10.374556
+Atributo escolhido: ano_criacao
+Sua carta: Mead (Hidromel) (1807)
+Carta do computador: Tequila Mexicana (1651)
+Resultado: Você venceu
+
+========================
+Data: 2025-06-25 21:48:02.991531
+Atributo escolhido: ano_criacao
+Sua carta: Vinho Branco Doce (1622)
+Carta do computador: Bourbon Americano (1742)
+Resultado: Computador venceu
+
+========================
+Data: 2025-06-25 21:49:23.280179
+Atributo escolhido: ano_criacao
+Sua carta: Vinho Tinto Seco (1652)
+Carta do computador: Absinto Europeu (1857)
+Resultado: Computador venceu
+
+========================
+Data: 2025-06-25 21:51:04.408263
+Atributo escolhido: ano_criacao
+Sua carta: Tequila Mexicana (1651)
+Carta do computador: Rum Cubano (1647)
+Resultado: Computador venceu
+
+========================
+Data: 2025-06-25 21:55:44.649525
+Atributo escolhido: acidez
+Sua carta: Baijiu Chinês (6.2)
+Carta do computador: Grappa Italiana (3.7)
+Resultado: Computador venceu
+
+========================
+Data: 2025-07-02 20:26:51.486448
+Atributo escolhido: preco
+Sua carta: Saque Japonês (391.94)
+Carta do computador: Cerveja Pilsen (62.35)
+Resultado: Você venceu
+
+========================
+Data: 2025-07-02 20:29:06.519342
+Atributo escolhido: preco
+Sua carta: Cerveja Pilsen (62.35)
+Carta do computador: Mead (Hidromel) (97.13)
+Resultado: Computador venceu
